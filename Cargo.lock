@@ -145,6 +145,7 @@ version = "0.1.0"
 dependencies = [
  "cbindgen 0.5.2",
  "platform 0.1.0",
+ "socket 0.1.0",
 ]
 
 [[package]]
@@ -287,6 +288,7 @@ dependencies = [
  "sys_time 0.1.0",
  "time 0.1.0",
  "unistd 0.1.0",
+ "util 0.1.0",
  "wait 0.1.0",
  "wctype 0.1.0",
 ]
@@ -535,6 +537,10 @@ dependencies = [
  "cbindgen 0.5.2",
  "platform 0.1.0",
 ]
+
+[[package]]
+name = "util"
+version = "0.1.0"
 
 [[package]]
 name = "va_list"
